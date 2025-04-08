@@ -20,4 +20,39 @@ This simulates real-world enterprise onboarding:
 - Microsoft 365, Apple, Cisco, VMware coordination
 - End-to-end audit trail for compliance
 
-*Great for showcasing Senior Analyst / IT Engineer cross-platform skills.*
+## Workflow Overview
+
+## 📝 Onboarding Process Notes
+
+### 🔹 Create M365 Account
+- Set up user account in Microsoft 365 (M365)
+- Ensure correct user details and role assignment
+
+### 🔹 Assign License
+- Allocate appropriate M365 license (e.g., Business Standard, E3)
+- Confirm license activation for services (Outlook, Teams, etc.)
+
+### 🔹 Enable MFA
+- Activate Multi-Factor Authentication (MFA) for account security
+- Guide user through MFA setup (authenticator app, SMS, etc.)
+
+### 🔹 Add to Teams Group
+- Include user in relevant Microsoft Teams group(s)
+- Ensure access to correct channels and permissions
+
+### 🔹 Provision VMware VM
+- Create and configure VMware virtual machine
+- Assign resources (CPU, memory, storage) based on user needs
+- Provide access credentials to the user
+
+### 🔹 Enroll macOS Device in Jamf
+- Register user’s macOS device into Jamf for MDM
+- Apply configuration profiles and security policies
+
+### 🔹 Assign Cisco Phone Extension
+- Allocate unique Cisco VoIP phone extension
+- Configure user profile in Cisco Unified Communications Manager
+
+### 🔹 Generate Audit Log
+- Document all onboarding actions in an audit log
+- Include timestamps, responsible personnel, and status of each step
